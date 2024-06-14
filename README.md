@@ -33,7 +33,7 @@ This is the first project that I did which uses python for cleaning and explorin
 ## Project 3: KPI Dashboard of a store 
 A KPI sales dashboard for business owners to analyze sales performance across various metrics.
 
-[View Tableau Dashboard]([https://public.tableau.com/views/LondonBikeRide_17022268063190/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link](https://public.tableau.com/shared/X784B4B5R?:display_count=n&:origin=viz_share_link))
+[View Tableau Dashboard](https://public.tableau.com/shared/X784B4B5R?:display_count=n&:origin=viz_share_link)
 
 Business owners will have an overview of: 
 1. Trend in total sales, profits and quantity sold per year across months
