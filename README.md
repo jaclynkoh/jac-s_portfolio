@@ -1,5 +1,4 @@
-# jac-s_portfolio
-Analytics Portfolio
+# jaclyn koh's Data Analytics Portfolio
 
 ## Project 1: Retail Data Analytics 
 This is a project to analyse the retail data analytics dataset on kaggle
@@ -35,3 +34,6 @@ Business owners will have an overview of:
 2. Breakdown of sales and profits by subcategory
 
 Business owners are able to filter the dashboard by (1) Year (2) Product -- Category and sub-category (3) Location -- Region, State, City  
+  
+*Areas covered: Identification of key metrics and insights, Data visualisation*
+*Technical Skills: Tableau*
