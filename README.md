@@ -14,6 +14,7 @@ This is a project to analyse the retail data analytics dataset on kaggle
     * To identify profitable stores unprofitable stores 
 
 *Areas covered: Data cleaning, Data visualisation*
+
 *Technical Skills: Python (Pandas)*
 
 ## Project 2: London Bikesharing 
@@ -28,6 +29,7 @@ This is the first project that I did which uses python for cleaning and explorin
 - Visualise the different factors that affects the number of bike rides
   
 *Areas covered: Data cleaning, Data visualisation*
+
 *Technical Skills: Python (Pandas), Tableau*
 
 ## Project 3: KPI Dashboard of a store 
@@ -42,4 +44,5 @@ Business owners will have an overview of:
 Business owners are able to filter the dashboard by (1) Year (2) Product -- Category and sub-category (3) Location -- Region, State, City  
   
 *Areas covered: Identification of key metrics and insights, Data visualisation*
+
 *Technical Skills: Tableau*
