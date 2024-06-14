@@ -2,7 +2,7 @@
 Analytics Portfolio
 
 ## Project 1: Retail Data Analytics 
-	[Link](https://www.kaggle.com/code/jaclynkohh/retail-data-analytics)
+https://www.kaggle.com/code/jaclynkohh/retail-data-analytics 
 
  This is a project to analyse the retail data analytics dataset on kaggle. Business questions identified to be answered: 
  1. What is the trend in weekly sales across time period
@@ -15,3 +15,4 @@ Analytics Portfolio
  6. Which stores are the highest earners?
     * To identify profitable stores unprofitable stores 
 
+*Pandas Python was used for Data cleaning, exploration and visualisation 
