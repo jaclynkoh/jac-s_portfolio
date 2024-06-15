@@ -1,7 +1,7 @@
 # jaclyn koh's Data Analytics Portfolio
 
 ## Project 1: Retail Data Analytics 
-This is a project to analyse the retail data analytics dataset on kaggle
+This is a project to analyse the retail data analytics dataset on kaggle. 
 
 [View project](https://www.kaggle.com/code/jaclynkohh/retail-data-analytics)
 
@@ -32,8 +32,23 @@ This is the first project that I did which uses python for cleaning and explorin
 
 *Technical Skills: Python (Pandas), Tableau*
 
-## Project 3: KPI Dashboard of a store 
-A KPI sales dashboard for business owners to analyze sales performance across various metrics.
+## Project 3: Netflix Movies and TV Shows Dashboard
+
+[View Power BI Dashboard] 
+This project utilizes Power BI for data visualization, providing a dashboard that offers insights into the following questions:
+
+1. Which countries have the most content available on Netflix?
+2. What is the distribution of movies and TV shows by genre and ratings?
+3. What are the top movies on Netflix
+
+The dataset is derived from 2 different data sources and was merged using python by its common variable, Movie/ TV Shows 'Title'. 
+
+*Areas covered: Data cleaning, Data visualisation*
+
+*Technical Skills: Python (Pandas), Power BI*
+
+## Project 4: KPI Dashboard of a store 
+A KPI sales dashboard on Tableau for business owners to analyze sales performance across various metrics.
 
 [View Tableau Dashboard](https://public.tableau.com/shared/X784B4B5R?:display_count=n&:origin=viz_share_link)
 
