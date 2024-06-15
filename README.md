@@ -1,9 +1,7 @@
 # jaclyn koh's Data Analytics Portfolio
 
-## Project 1: Retail Data Analytics 
+## Project 1: [Retail Data Analytics](https://www.kaggle.com/code/jaclynkohh/london-bikesharing)
 This is a project to analyse the retail data analytics dataset on kaggle. 
-
-[View project](https://www.kaggle.com/code/jaclynkohh/retail-data-analytics)
 
  A few of the Business questions identified to be answered: 
  1. What is the trend in weekly sales across time period
@@ -17,12 +15,9 @@ This is a project to analyse the retail data analytics dataset on kaggle.
 
 *Technical Skills: Python (Pandas)*
 
-## Project 2: London Bikesharing 
+## Project 2: [London Bikesharing](https://www.kaggle.com/code/jaclynkohh/london-bikesharing)
 This is the first project that I did which uses python for cleaning and exploring the data, and Tableau for data Visualisation. 
 
-*Reference: https://www.youtube.com/watch?v=nl9eZl1IOKI* 
-
-[View python code](https://www.kaggle.com/code/jaclynkohh/london-bikesharing)
 
 [View Tableau Dashboard](https://public.tableau.com/views/LondonBikeRide_17022268063190/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 - To understand the factors that affects the average number of bike rides in London
@@ -32,6 +27,7 @@ This is the first project that I did which uses python for cleaning and explorin
 
 *Technical Skills: Python (Pandas), Tableau*
 
+*Reference: https://www.youtube.com/watch?v=nl9eZl1IOKI* 
 ## Project 3: Netflix Movies and TV Shows Dashboard
 
 [View Power BI Dashboard](Netflix Dashboard.pbix)
