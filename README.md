@@ -18,7 +18,7 @@ This is a project to analyse the retail data analytics dataset on kaggle.
 ## Project 2: [London Bikesharing](https://public.tableau.com/views/LondonBikeRide_17022268063190/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 This is the first project that I did which uses python for cleaning and exploring the data, and Tableau for data Visualisation. 
 
-[Data Cleaning](https://www.kaggle.com/code/jaclynkohh/london-bikesharing)
+I first used python to [Clean my data](https://www.kaggle.com/code/jaclynkohh/london-bikesharing)
 
 - To understand the factors that affects the average number of bike rides in London
 - Visualise the different factors that affects the number of bike rides
@@ -45,7 +45,6 @@ The dataset is derived from 2 different data sources and was merged using python
 
 ## Project 4: [KPI Dashboard of a store](https://public.tableau.com/shared/X784B4B5R?:display_count=n&:origin=viz_share_link)
 A KPI sales dashboard on Tableau for business owners to analyze sales performance across various metrics.
-
 
 Business owners will have an overview of: 
 1. Trend in total sales, profits and quantity sold per year across months
