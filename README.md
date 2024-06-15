@@ -34,7 +34,7 @@ This is the first project that I did which uses python for cleaning and explorin
 
 ## Project 3: Netflix Movies and TV Shows Dashboard
 
-[View Power BI Dashboard] 
+[View Power BI Dashboard](Netflix Dashboard.pbix)
 This project utilizes Power BI for data visualization, providing a dashboard that offers insights into the following questions:
 
 1. Which countries have the most content available on Netflix?
